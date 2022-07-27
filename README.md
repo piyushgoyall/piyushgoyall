@@ -1,5 +1,5 @@
 Hi there, Piyush here 👋
 
-
- 🔭🌱 I’m currently learnning and working on 
+About Me:
+ 🔭 🌱 I’m currently learnning and working on C
 
