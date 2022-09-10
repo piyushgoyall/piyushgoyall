@@ -2,7 +2,7 @@
 
 I’m currently learning and working on C :computer: 🔭 🌱 
 
- 
+ <img src="https://testwebsitesssscom.files.wordpress.com/2021/10/75204-seo-green.gif?w=640" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Geek Doctor – Book A Geek. Anytime. Anywhere." data-noaft="1" style="width: 383px; height: 383px; margin: 0px;">
 
 
 
