@@ -2,8 +2,3 @@
 
 ### **Learning the art of coding.** 🔭 🌱 
  <img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="88" height="88" alt="Soulja Boy Pepe Sticker - Soulja Boy Pepe Typing Stickers" style="max-width: 104px; background-color: unset; margin: 8px;"> 
-
-
-
-
- <img class="J9AiF" src="https://64.media.tumblr.com/a5d6bf3…/tumblr_oqqtx5akCu1qf1ij9o1_250.gifv" height="338" width="243" alt="#sergle art from ★">
