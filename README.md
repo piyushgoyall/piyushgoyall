@@ -5,4 +5,4 @@ I’m currently learning and working on C :computer:🔭 🌱 \
 
 
 
- <img class=" lazyloaded" alt="emoji 🕺 | man dancing | skype | 240 x 240" title="🕺 | 1F57A | man dancing | 240 | skype | 1f57a.png" data-src="/images/240/skype/1f57a.png" src="/images/240/skype/1f57a.png" height="24" width="24">
+ <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.emojiall.com/images/240/skype/1f57a.png" width="150" height="150">slot
