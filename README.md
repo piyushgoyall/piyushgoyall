@@ -3,7 +3,5 @@
 ### **Learning the art of coding.** 🔭  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://media.baamboozle.com/uploads/images/458528/1635143203_50355_url.gif" width="50" height="50">
  <img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="88" height="88" alt="Soulja Boy Pepe Sticker - Soulja Boy Pepe Typing Stickers" style="max-width: 104px; background-color: unset; margin: 8px;"> 
 
- <img src="https://disha34.files.wordpress.com/2017/09/gif.gif?w=944&h=944" title="Creating A GIF is an Exciting Experience…" class="attachment-baskerville-2-post-image wp-post-image" width="25" height="25" srcset="https://disha34.files.wordpress.com/2017/09/gif.gif?w=944&h=944&zoom=2 1.5x" src-orig="https://disha34.files.wordpress.com/2017/09/gif.gif?w=1400&h=9999" scale="1.5">
 
-
-🌱
+ <img src="https://i.pinimg.com/originals/4b/5b/98/4b5b984….gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Telescope | Motion graphics inspiration, Character design animation, Motion  design" data-noaft="1" style="width: 433px; height: 324.75px; margin: 0px;">
