@@ -5,4 +5,4 @@ I’m currently learning and working on C :computer:🔭 🌱 \
 
 
 
- <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.emojiall.com/images/240/skype/1f57a.png" width="150" height="150">slot
+ <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.emojiall.com/images/240/skype/1f57a.png" width="30" height="30">
