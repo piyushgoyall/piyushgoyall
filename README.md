@@ -2,9 +2,8 @@
 
 I’m currently learning and working on C :computer: 🔭 🌱 
 
- <img src="https://testwebsitesssscom.files.wordpress.com/2021/10/75204-seo-green.gif?w=640" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Geek Doctor – Book A Geek. Anytime. Anywhere." data-noaft="1" style="width: 83px; height: 83px; margin: 0px;">
 
 
-
+ <img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="22" height="22" alt="Soulja Boy Pepe Sticker - Soulja Boy Pepe Typing Stickers" style="max-width: 104px; background-color: unset; margin: 8px;">
 
 
