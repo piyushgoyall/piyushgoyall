@@ -6,4 +6,5 @@
 
 
 # Tech Stack
- <img class="J9AiF" src="https://64.media.tumblr.com/139d5d4…/tumblr_o7vs1zNO341runoqyo9_540.gifv" height="304" width="540" alt="#gif pack from octomoosey">
+
+ <img src="https://cdn.dribbble.com/users/543872/screenshots/3440651/untitled-6.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Arc Reactor! IRONMAN :) by Parth Gosai on Dribbble" data-noaft="1" style="width: 433px; height: 324.75px; margin: 0px;">
