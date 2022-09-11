@@ -7,4 +7,4 @@
 
 # Tech Stack
 
- <img src="https://cdn.dribbble.com/users/543872/screenshots/3440651/untitled-6.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Arc Reactor! IRONMAN :) by Parth Gosai on Dribbble" data-noaft="1" style="width: 433px; height: 324.75px; margin: 0px;">
+ <img src="https://cdn.dribbble.com/users/543872/screenshots/3440651/untitled-6.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Arc Reactor! IRONMAN :) by Parth Gosai on Dribbble" data-noaft="1" style="width: 100px; height: 50px; margin: 0px;">
