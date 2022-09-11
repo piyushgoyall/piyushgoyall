@@ -5,6 +5,6 @@
 
 
 
-# Tech Stack <img src="https://images-wixmp-ed30a86….wixmp.com/f/367abc08-ca5…XJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8yoX7JsdOho44M3xeRAzr9KWp2b-NCAZzzkBfOiglQw" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="hAMMER GIF by WhatTheFlup on DeviantArt" data-noaft="1" style="width: 70px; height: 50.px; margin: 0px;">
+# 🛠 Tech Stack 
 
  
