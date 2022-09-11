@@ -7,4 +7,4 @@
 
 # Tech Stack
 
- <img src="https://cdn.dribbble.com/users/543872/screenshots/3440651/untitled-6.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Arc Reactor! IRONMAN :) by Parth Gosai on Dribbble" data-noaft="1" style="width: 100px; height: 50px; margin: 0px;">
+ <img src="https://media4.giphy.com/media/LOu9cTwPt0itKJzJFo/giphy.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Timmeren GIFs - Get the best GIF on GIPHY" data-noaft="1" style="width: 150px; height: 150px; margin: 0px;">
