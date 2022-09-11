@@ -4,7 +4,7 @@
  <img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="125" height="125" alt="Soulja Boy Pepe Sticker - Soulja Boy Pepe Typing Stickers" style="max-width: 104px; background-color: unset; margin: 8px;"> 
 
 
- <img src="https://i.pinimg.com/originals/dd/0a/23/dd0a239….gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Telescope - Process | Telescope, Icon design, Graphic design" data-noaft="1" style="width: 433px; height: 324.75px; margin: 0px;">
+
  
 
  
