@@ -5,6 +5,7 @@
 
 
 
-# Tech Stack
+# <img src="https://media4.giphy.com/media/LOu9cTwPt0itKJzJFo/giphy.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Timmeren GIFs - Get the best GIF on GIPHY" data-noaft="1" style="width: 50px; height: 50px; margin: 0px;">
+ Tech Stack
 
- <img src="https://media4.giphy.com/media/LOu9cTwPt0itKJzJFo/giphy.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Timmeren GIFs - Get the best GIF on GIPHY" data-noaft="1" style="width: 50px; height: 50px; margin: 0px;">
+ 
