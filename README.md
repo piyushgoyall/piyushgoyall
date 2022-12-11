@@ -3,7 +3,7 @@
 
 
 
-# Hi there <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="👋🏻 Waving Hand Sign: Light Skin Tone Emoji" data-noaft="1" style="width: 50px; height: 46px; margin: 0px;"> ,Piyush here   
+# Hi there <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="👋🏻 Waving Hand Sign: Light Skin Tone Emoji" data-noaft="1" style="width: 50px; height: 46px; margin: 0px;"> ,Piyush [here](https://twitter.com/home)   
 
 
 ### *****Understanding the art of coding.***** 🔭 
