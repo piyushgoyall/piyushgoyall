@@ -1,6 +1,10 @@
  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="850" height="250">
  
  
+<!--  MAN IN FRONT OF COMPUTER
+<img src="https://i.pinimg.com/originals/15/e7/e3/15e7e30….gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Pixel Art Gallery | Pixel art games, Cool pixel art, Pixel art tutorial" data-noaft="1" style="width: 465px; height: 248px; margin: 0px;"> -->
+ 
+ 
 <!--  SPACE ONE
  <img src="https://images.squarespace-cdn.com/content/v1/60b264f…/1622453214675-1239BUJ9UF9GE9U2P5Q3/Farewell.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Pixel Art NFT Week" data-noaft="1" style="width: 465px; height: 261.562px; margin: 0px;"> -->
  
