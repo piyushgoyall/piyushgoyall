@@ -2,6 +2,8 @@
  
 <!--  EXISTENTIAL CRISIS
  <img src="https://data.nextshark.com/wp-content/uploads/2018/01/002.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Artist Creates The Best Japanese Pixel Art GIFs on Earth | NextShark.com" data-noaft="1" style="width: 465px; height: 347.588px; margin: 0px;">
+
+ <img src="http://38.media.tumblr.com/7e60191…/tumblr_ntik0xmTjf1qze3hdo1_r1_500.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="pixel art animated gif | WiffleGif" data-noaft="1" style="width: 465px; height: 267.84px; margin: 0px;">
   -->
  
  
