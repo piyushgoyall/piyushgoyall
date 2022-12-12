@@ -2,7 +2,7 @@
  -->
  
  
- <img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Pixel Art Illustration by Pixel Jeff - Masterpicks - Design Inspiration" data-noaft="1" style="width: 465px; height: 261.562px; margin: 0px;">
+ <img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Pixel Art Illustration by Pixel Jeff - Masterpicks - Design Inspiration" data-noaft="1" style="width: 850px; height: 261.562px; margin: 0px;">
 
 
 
