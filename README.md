@@ -46,3 +46,5 @@
 
 <!--  <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/discodancer.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Dancing Emoji Gif" data-noaft="1" style="width: 180px; height: 180px; margin: 18.6px 0px;"> -->
 
+
+<img src="/insolitum/insolitum/raw/main/contributions.svg" style="max-width: 100%;">
