@@ -25,7 +25,7 @@
 
 
 ### *****Understanding the art of coding.***** 🔭 
-### **Gmail [:envelope_with_arrow:](binarybrain03@gmail.com)**
+
  <img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="125" height="125" alt="Soulja Boy Pepe Sticker - Soulja Boy Pepe Typing Stickers" style="max-width: 104px; background-color: unset; margin: 8px;"> 
 
 
