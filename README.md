@@ -32,7 +32,7 @@
 
 ## Basic things I follow while writing a code :
 
-**1. Save programs with relevant/appropriate file name. 🔖** \
+**1. Save programs with relevant/appropriate file names. 🔖** \
 **2. Give meaningful variable names. 💭** \
 **3. Use folder system for saving codes. 📂** \
 **4. Always save all codes for the day on github. 💾** \
