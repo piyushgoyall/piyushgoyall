@@ -30,7 +30,7 @@
  <img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="125" height="125" alt="Soulja Boy Pepe Sticker - Soulja Boy Pepe Typing Stickers" style="max-width: 104px; background-color: unset; margin: 8px;"> 
 
 
-## Basic things I follow while writing a code :
+## Basic things I follow :
 
 **1. Save programs with relevant/appropriate file name. 🔖** \
 **2. Give meaningful variable names. 💭** \
