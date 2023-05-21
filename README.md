@@ -1,4 +1,7 @@
- <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="850" height="250">
+ <img class="project-assets-image img-responsive constrained" alt src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
+
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="850" height="250">
  
 <!--  EXISTENTIAL CRISIS
  <img src="https://data.nextshark.com/wp-content/uploads/2018/01/002.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Artist Creates The Best Japanese Pixel Art GIFs on Earth | NextShark.com" data-noaft="1" style="width: 465px; height: 347.588px; margin: 0px;">
