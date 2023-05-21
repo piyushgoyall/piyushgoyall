@@ -31,7 +31,7 @@
  <img src="https://mintspace-media.fra1.digitaloceanspaces.com/wp-content/uploads/2021/12/04001831/Retro-pixel-art.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Retro Pixel Art (Gift) - Mint Space NFT Marketplace - Buy, Sell and Create  NFTs Art Tokens without Fees" data-noaft="1" style="width: 465px; height: 261.562px; margin: 0px;"> -->
 
 
-# Hi there <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="👋🏻 Waving Hand Sign: Light Skin Tone Emoji" data-noaft="1" style="width: 50px; height: 40px; margin: 0px;"> ,Piyush [here](https://twitter.com/piyushgoyalll)   
+# Hi there <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="👋🏻 Waving Hand Sign: Light Skin Tone Emoji" data-noaft="1" style="width: 45px; height: 40px; margin: 0px;"> ,Piyush [here](https://twitter.com/piyushgoyalll)   
 
 
 ### *****Understanding the art of coding.***** 🔭 
