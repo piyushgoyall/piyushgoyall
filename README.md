@@ -1,5 +1,7 @@
- <img class="project-assets-image img-responsive constrained" alt src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
+ <img src="https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 498px; height: 238px; margin: 0px; width: 414px;" alt="Pixel Art GIF - Pixel Art - Discover & Share GIFs" jsname="kn3ccd">
 
+<!--  <img class="project-assets-image img-responsive constrained" alt src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
+ -->
 
 <!-- <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="850" height="250"> -->
  
