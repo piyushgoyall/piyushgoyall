@@ -32,11 +32,11 @@
 
 # Hi there<img src="https://user-images.githubusercontent.com/87297355/155946069-15aa5c06-ddfe-4d02-96fa-ea9b3eb5ed1c.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 50px; height:50px; margin: 0px; width: 50px;" alt="harshi1122 (Harshitha Devi Ganajala) · GitHub" jsname="kn3ccd">, Piyush here.
 
-<!--
-[here](https://twitter.com/piyushgoyalll)  
+
+
 
 <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="👋🏻 Waving Hand Sign: Light Skin Tone Emoji" data-noaft="1" style="width: 45px; height: 40px; margin: 0px;">
--->
+
 
 ### *****Understanding the art of coding.***** 🔭 
 
