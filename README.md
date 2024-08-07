@@ -31,8 +31,6 @@
  <img src="https://mintspace-media.fra1.digitaloceanspaces.com/wp-content/uploads/2021/12/04001831/Retro-pixel-art.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Retro Pixel Art (Gift) - Mint Space NFT Marketplace - Buy, Sell and Create  NFTs Art Tokens without Fees" data-noaft="1" style="width: 465px; height: 261.562px; margin: 0px;"> -->
 
 # Hi there<img src="https://user-images.githubusercontent.com/87297355/155946069-15aa5c06-ddfe-4d02-96fa-ea9b3eb5ed1c.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 50px; height:50px; margin: 0px; width: 50px;" alt="harshi1122 (Harshitha Devi Ganajala) · GitHub" jsname="kn3ccd">, Piyush here.
-<img src="https://lh3.googleusercontent.com/proxy/7HDLfCyACxlZcV0aoV9re53kzunCqC…eAknSDZ5OBxsd_nKD959IpKfZsXjIZ_E2mBa73vMz88x7jg-zUxhvTojASyOa4_ChmZ9mtlAJs" jsaction class="sFlh5c pT0Scc iPVvYb" style="max-width: 180px; height: 180px; margin: 0px; width: 180px;" alt="Dancing" Emoticon" jsname="kn3ccd">
-
 
 <!-- 
 [here](https://twitter.com/piyushgoyalll)  
