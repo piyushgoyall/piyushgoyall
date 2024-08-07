@@ -1,7 +1,7 @@
 ![ezgif com-crop](https://github.com/piyushgoyall/piyushgoyall/assets/109795757/e2dde72a-4bca-4027-ae7c-f01caf8b9ed6)
 
+<img alt="Image" class="r2nEi" loading="lazy" sizes="(max-width: 2000px) 100vw, 2000px" srcset="https://64.media.tumblr.com/8b86837…/499da71b41a48e3b-d6/s100x200/81b4260….gifv 100w, https://64.media.tumblr.com/8b86837…/499da71b41a48e3b-d6/s250x400/0035bb2….gifv 250w, https://64.media.tumblr.com/8b86837…/499da71b41a48e3b-d6/s400x600/4a774ca….gifv 400w, https://64.media.tumblr.com/8b86837…/499da71b41a48e3b-d6/s500x750/49d9c1a….gifv 500w, https://64.media.tumblr.com/8b86837…/499da71b41a48e3b-d6/s540x810/1981138….gifv 540w, https://64.media.tumblr.com/8b86837…/499da71b41a48e3b-d6/s640x960/8da538e….gifv 640w, https://64.media.tumblr.com/8b86837…/499da71b41a48e3b-d6/s1280x1920/f988191….gifv 1280w, https://64.media.tumblr.com/8b86837…/499da71b41a48e3b-d6/s2048x3072/db10bb4….gifv 2000w">
 
-<img alt="#Pixel Jeff from it8Bit" class="J9AiF" height="1125" src="https://64.media.tumblr.com/8b86837…/499da71b41a48e3b-d6/s2048x3072/db10bb4….gifv" width="2000">
 
 <!--  <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e30….gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 900px; height: 221px; margin: 0px; width: 414px;" alt="Pixel Art Gallery | Cool pixel art, Pixel art games, Pixel art design" jsname="kn3ccd"> -->
 
