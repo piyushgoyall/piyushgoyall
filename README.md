@@ -1,6 +1,6 @@
 ![ezgif com-crop](https://github.com/piyushgoyall/piyushgoyall/assets/109795757/e2dde72a-4bca-4027-ae7c-f01caf8b9ed6)
 
-<img src="https://64.media.tumblr.com/f7cd096f108d83c988169096361972fc/tumblr_otjfqziQrH1qze3hdo1_500.gif" alt="Cool GIF" style="width: 100%; height: auto; background-color: unset; margin: 8px;">
+<img src="https://64.media.tumblr.com/f7cd096f108d83c988169096361972fc/tumblr_otjfqziQrH1qze3hdo1_500.gif" alt="Cool GIF" style="width: 1100px; height: auto; background-color: unset; margin: 8px;">
 
 <!--
 <img src="https://64.media.tumblr.com/8b868373b16c535b6494ea3f6a323030/499da71b41a48e3b-d6/s2048x3072/db10bb4be0cbba6718e9824a11c30b73ba9213f5.gif" alt="Cool GIF" style="max-width: 100%; height: auto; background-color: unset; margin: 8px;"> -->
